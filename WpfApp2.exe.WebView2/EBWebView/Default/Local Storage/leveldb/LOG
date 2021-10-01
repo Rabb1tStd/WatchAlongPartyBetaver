@@ -1,3 +1,6 @@
-2021/09/30-15:39:47.087 4440 Reusing MANIFEST C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2021/09/30-15:39:47.089 4440 Recovering log #3
-2021/09/30-15:39:47.091 4440 Reusing old log C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2021/09/30-23:13:19.540 13a8 Reusing MANIFEST C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2021/09/30-23:13:19.541 13a8 Recovering log #3
+2021/09/30-23:13:19.592 13a8 Reusing old log C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2021/09/30-23:17:19.966 307c Level-0 table #5: started
+2021/09/30-23:17:20.019 307c Level-0 table #5: 17365 bytes OK
+2021/09/30-23:17:20.060 307c Delete type=0 #3

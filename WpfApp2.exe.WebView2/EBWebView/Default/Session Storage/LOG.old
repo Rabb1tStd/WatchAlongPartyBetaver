@@ -1,3 +1,6 @@
-2021/09/30-12:04:37.521 201c Reusing MANIFEST C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\netcoreapp3.1\WpfApp2.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
-2021/09/30-12:04:37.522 201c Recovering log #3
-2021/09/30-12:04:37.523 201c Reusing old log C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\netcoreapp3.1\WpfApp2.exe.WebView2\EBWebView\Default\Session Storage/000003.log 
+2021/09/30-20:12:31.196 3b00 Reusing MANIFEST C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+2021/09/30-20:12:31.197 3b00 Recovering log #3
+2021/09/30-20:12:31.198 3b00 Reusing old log C:\Users\brebe\source\repos\WpfApp2\WpfApp2\bin\Release\WatchAlongPartyBetaver\WpfApp2.exe.WebView2\EBWebView\Default\Session Storage/000003.log 
+2021/09/30-20:15:54.142 3b00 Level-0 table #5: started
+2021/09/30-20:15:54.170 3b00 Level-0 table #5: 21843 bytes OK
+2021/09/30-20:15:54.226 3b00 Delete type=0 #3
